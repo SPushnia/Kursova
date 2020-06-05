@@ -1,0 +1,12 @@
+C:\Users\lolol\source\repos\collageDB\collageDB\bin\Debug\Database1.mdf
+C:\Users\lolol\source\repos\collageDB\collageDB\bin\Debug\Database1_log.ldf
+C:\Users\lolol\source\repos\collageDB\collageDB\bin\Debug\collageDB.exe.config
+C:\Users\lolol\source\repos\collageDB\collageDB\bin\Debug\collageDB.exe
+C:\Users\lolol\source\repos\collageDB\collageDB\bin\Debug\collageDB.pdb
+C:\Users\lolol\source\repos\collageDB\collageDB\obj\Debug\collageDB.csprojAssemblyReference.cache
+C:\Users\lolol\source\repos\collageDB\collageDB\obj\Debug\collageDB.Form1.resources
+C:\Users\lolol\source\repos\collageDB\collageDB\obj\Debug\collageDB.Properties.Resources.resources
+C:\Users\lolol\source\repos\collageDB\collageDB\obj\Debug\collageDB.csproj.GenerateResource.cache
+C:\Users\lolol\source\repos\collageDB\collageDB\obj\Debug\collageDB.csproj.CoreCompileInputs.cache
+C:\Users\lolol\source\repos\collageDB\collageDB\obj\Debug\collageDB.exe
+C:\Users\lolol\source\repos\collageDB\collageDB\obj\Debug\collageDB.pdb
